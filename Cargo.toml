@@ -2,7 +2,12 @@
 name = "rustdex"
 version = "0.1.0"
 edition = "2024"
+description = "A terminal-based Pokédex written in Rust"
 license = "MIT OR Apache-2.0"
+repository = "https://github.com/pedrobrantes/rustdex"
+readme = "README.md"
+keywords = ["pokemon", "pokedex", "cli", "tui", "rust", "rustdex", "pokeapi", "api", "terminal"]
+categories = ["command-line-utilities"]
 
 [dependencies]
 tokio = { version = "1", features = ["full"] }
