@@ -18,3 +18,4 @@ clap = { version = "4.0", features = ["derive"] }
 viuer = "0.6.1"
 image = "0.24.7"
 clearscreen = "2.0.1"
+bytes = "1.6"
