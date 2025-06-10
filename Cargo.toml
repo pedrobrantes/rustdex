@@ -6,7 +6,7 @@ description = "A terminal-based Pokédex written in Rust"
 license = "MIT OR Apache-2.0"
 repository = "https://github.com/pedrobrantes/rustdex"
 readme = "README.md"
-keywords = ["pokemon", "pokedex", "cli", "tui", "rust", "rustdex", "pokeapi", "api", "terminal"]
+keywords = ["pokemon", "pokedex", "cli", "tui", "pokeapi"]
 categories = ["command-line-utilities"]
 
 [dependencies]
